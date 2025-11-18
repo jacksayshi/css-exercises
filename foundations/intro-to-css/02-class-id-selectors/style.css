@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.a{
+    background-color: #FFA8B5;
+    color:black;
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+.a.b{
+    font-size: 24px;
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+#one{
+    color:blue;
+    font-size: 36px;
+}
+#two{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(105, 255, 105);
+    
+}
